@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623792890679",
+    "project_id": "note-bytes-d1db2",
+    "storage_bucket": "note-bytes-d1db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623792890679:android:35dc8a248ca928d39ff0b2",
+        "android_client_info": {
+          "package_name": "com.example.notes_byte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRN1b-Z9Gvxu3Q0dcaHK78ZjZ3DL2sa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
